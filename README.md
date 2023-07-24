@@ -1,7 +1,6 @@
-	@@ -1,35 +1,35 @@
 <a name="readme-top"></a>
 # :green_book: Table of Contents
-- [:List: Math-Magicians](#-Awesome-a-nameabout-projecta)
+- [:List: REACT-TODO-APP](#-Awesome-a-nameabout-projecta)
   - [:hammer_and_wrench: Built With ](#-built-with-a-namebuilt-witha)
     - [Tech Stack ](#tech-stack-a-nametech-stacka)
     - [Key Features ](#key-features-a-namekey-featuresa)
@@ -17,7 +16,7 @@
   - [:pray: Acknowledgments ](#-acknowledgments-a-nameacknowledgementsa)
   - [:memo: License ](#-license-a-namelicensea)
 
-   # :book: Math-Magicians <a name="about-project"></a>
+   # :book: REACT-TODO-APP <a name="about-project"></a>
   - Math magicians" This a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
